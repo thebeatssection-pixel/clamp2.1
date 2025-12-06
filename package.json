@@ -1,0 +1,21 @@
+{
+  "name": "f",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^6.2.2",
+    "vite-plugin-restart": "^0.4.2"
+  },
+  "dependencies": {
+    "@jscad/csg": "^0.7.0",
+    "jspdf": "^3.0.4",
+    "lil-gui": "^0.21.0",
+    "three": "^0.174.0",
+    "three-csg-ts": "^3.2.0"
+  }
+}
